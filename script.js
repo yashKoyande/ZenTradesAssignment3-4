@@ -22,7 +22,7 @@ function authenticate(){
 
     if(password=="SmartServTest@123"){
         alert("Login Successful");
-        window.location.href = "ZenTradesAssignment3-4/dashboard.html";
+        window.location.href = "/ZenTradesAssignment3-4/dashboard.html";
     }
 
     // If validation passes, submit the form or handle login logic
